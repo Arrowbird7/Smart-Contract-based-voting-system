@@ -15,3 +15,5 @@ Ganache Transaction:
 
 
 # As MetaMask and Web3j has some limitation and not fully compatible with android SDK so this demo has lot's of limitations.
+
+`If you have some questions in this project, feel free to reach out.`
